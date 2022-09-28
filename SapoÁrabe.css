@@ -1,0 +1,18 @@
+img {
+  display: block;
+  margin: auto;
+}
+
+body {
+  background: #b1a688
+}
+
+p {
+  text-align: center;
+  font-size: 35px
+}
+
+.titulos {
+  text-align: center;
+  font-size: 60px
+}

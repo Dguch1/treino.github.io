@@ -1,0 +1,16 @@
+.Titulos {
+  text-align: center;
+  font-size: 80px;
+}
+
+body {
+  background: #00FF7F
+}
+
+nav a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: 000000;
+  font-size: 60px;
+  background: #8FBC8F
+}
